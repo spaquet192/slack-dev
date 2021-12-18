@@ -5,6 +5,7 @@
       "app_id": "A02RN2047ND",
       "team_id": "TQT69GB7G",
       "triggers": {
+        "new_incident_shortcut": "Ft02RZ57HAL8",
         "reverse_echo_shortcut": "Ft02RZ4LLV7A",
         "yell_shortcut": "Ft02RZ4RU02U"
       }
@@ -18,7 +19,9 @@
       "team_id": "TQT69GB7G",
       "user_id": "U02FFQ2FWHK",
       "triggers": {
-        "reverse_echo_shortcut": "Ft02RZ4J4E00"
+        "new_incident_shortcut": "Ft02RN2QGY4R",
+        "reverse_echo_shortcut": "Ft02RZ4J4E00",
+        "yell_shortcut": "Ft02RZ5B1064"
       }
     }
   }
