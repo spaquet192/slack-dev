@@ -1,0 +1,25 @@
+{
+  "apps": {
+    "cienagts-sandbox": {
+      "name": "cienagts-sandbox",
+      "app_id": "A02RN2047ND",
+      "team_id": "TQT69GB7G",
+      "triggers": {
+        "reverse_echo_shortcut": "Ft02RZ4LLV7A",
+        "yell_shortcut": "Ft02RZ4RU02U"
+      }
+    }
+  },
+  "default": "cienagts-sandbox",
+  "dev": {
+    "U02FFQ2FWHK": {
+      "name": "dev",
+      "app_id": "A02R2MVEYB0",
+      "team_id": "TQT69GB7G",
+      "user_id": "U02FFQ2FWHK",
+      "triggers": {
+        "reverse_echo_shortcut": "Ft02RZ4J4E00"
+      }
+    }
+  }
+}
